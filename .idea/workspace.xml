@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9a59e8c9-d0fa-4ab2-ab54-0c09e3a23d76" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/themes/matery/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/matery/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/matery/layout/_partial/footer.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/themes/matery/layout/_partial/footer.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/matery/source/css/matery.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/matery/source/css/matery.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/matery/source/css/my.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/matery/source/css/my.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/matery/source/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/themes/matery/source/favicon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/matery/source/medias/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/themes/matery/source/medias/logo.png" afterDir="false" />
-    </list>
+    <list default="true" id="9a59e8c9-d0fa-4ab2-ab54-0c09e3a23d76" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -23,6 +16,37 @@
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/landscape/.gitignore">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/matery/.gitignore">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="22">
+                <caret line="1" selection-start-line="1" selection-end-line="1" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -42,7 +66,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/themes/matery" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -55,6 +79,8 @@
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/themes/matery/_config.yml" />
         <option value="$PROJECT_DIR$/source/_data/friends.json" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -74,8 +100,8 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="299" />
-    <option name="y" value="70" />
+    <option name="x" value="176" />
+    <option name="y" value="105" />
     <option name="width" value="1295" />
     <option name="height" value="736" />
   </component>
@@ -87,6 +113,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -94,22 +121,10 @@
               <item name="HexoSite" type="b2602c69:ProjectViewProjectNode" />
               <item name="HexoSite" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="HexoSite" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HexoSite" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HexoSite" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HexoSite" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="landscape" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -140,18 +155,19 @@
       <option name="presentableId" value="Default" />
       <updated>1569134874415</updated>
       <workItem from="1569134877792" duration="1033000" />
-      <workItem from="1569247525001" duration="3637000" />
+      <workItem from="1569247525001" duration="3939000" />
+      <workItem from="1569251650879" duration="36000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7843000" />
+    <option name="totallyTimeSpent" value="8181000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="831" y="103" width="1295" height="736" extended-state="0" />
+    <frame x="176" y="105" width="1295" height="736" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.24821003" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24821003" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
@@ -177,30 +193,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/source/_posts/article.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="176">
-            <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/landscape/layout/page.ejs">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/landscape/layout/tag.ejs">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/about/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/themes/matery/source/medias/reward/alipay.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -395,8 +387,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="22">
+            <caret line="1" selection-start-line="1" selection-end-line="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/landscape/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/matery/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
