@@ -1,9 +1,10 @@
 ---
 title: vscode-sync-setting
 date: 2018-05-25 15:49:01
-categories: 工具
-tags: [vscode]
-description: 如何将不同设备上处的VSCode配置进行统一管理...
+categories: 
+- 工具
+tags:
+- VSCode
 ---
 
 ## VSCode配置的同步设置，实现不同设备上的统一

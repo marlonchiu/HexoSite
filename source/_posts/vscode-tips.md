@@ -1,9 +1,10 @@
 ---
 title: VS Code 使用小技巧
 date: 2018-05-26 15:49:01
-categories: 工具
-tags: [vscode]
-description: VSCode使用必备插件
+categories: 
+- 工具
+tags:
+- VSCode
 ---
 # VS Code 使用小技巧
 

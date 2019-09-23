@@ -1,10 +1,10 @@
 ---
 title: Hexo 入门初级指南
 date: 2018-05-09 11:07:33
-categories: Hexo
+categories: 
+- Hexo
 tags: 
-  -hexo
-description: 使用GitHub搭建Hexo博客完整操作手册
+- Hexo
 ---
 
 ## 写在前边

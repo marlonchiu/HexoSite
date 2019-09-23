@@ -1,9 +1,11 @@
 ---
 title: Yilia博客主题的详情配置
 date: 2018-05-09 14:19:39
-categories: Hexo
-tags: [hexo, themes]
-description: 修改主题篇 --> 推荐一 --> hexo-theme-yilia
+categories: 
+- Hexo
+tags: 
+- Hexo
+- theme
 ---
 
 ## 修改主题

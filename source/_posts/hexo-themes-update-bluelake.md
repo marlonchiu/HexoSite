@@ -1,11 +1,11 @@
 ---
 title: BlueLake博客主题的详细配置
 date: 2018-05-09 16:07:46
-categories: Hexo
+categories: 
+- Hexo
 tags: 
-  -hexo
-  -BlueLake
-description: 修改主题篇 --> 推荐二 --> hexo-theme-blueLake
+- Hexo
+- theme
 ---
 
 ## 1. 安装
