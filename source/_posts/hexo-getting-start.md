@@ -57,43 +57,45 @@ tags:
 * 注册GitHub账户
 * 创建GitHub工程
 * 配置Hexo程序
-```
-// 进入Hexo的安装目录，打开_config.yml配置文件。
 
-# Site
-title: 网站名称
-subtitle: 网站简介
-description:
-author: 作者
-language:
-timezone:
-
-# URL
-## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: 网站域名  (例如：https://marlonchiu.github.io/)
-root: /
-permalink: :category/:title.html
-permalink_defaults:
-
-...
-
-# Deployment
-## Docs: http://hexo.io/docs/deployment.html
-deploy:
-  type: git
-  repository: GitHub新建工程的地址（例如 git@github.com:marlonchiu/marlonchiu.github.io.git）
-  branch: master
-```
+  ```
+  // 进入Hexo的安装目录，打开_config.yml配置文件。
+  
+  # Site
+  title: 网站名称
+  subtitle: 网站简介
+  description:
+  author: 作者
+  language:
+  timezone:
+  
+  # URL
+  ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
+  url: 网站域名  (例如：https://marlonchiu.github.io/)
+  root: /
+  permalink: :category/:title.html
+  permalink_defaults:
+  
+  ...
+  
+  # Deployment
+  ## Docs: http://hexo.io/docs/deployment.html
+  deploy:
+    type: git
+    repository: GitHub新建工程的地址（例如 git@github.com:marlonchiu/marlonchiu.github.io.git）
+    branch: master
+  ```
 
 ## 发布Hexo到GitHub
 * 在Hexo的安装目录中，鼠标右键选择”Git Bash Here”选项。
 * 在Git命令行中，输入以下命令。
-    ```
-    // 生成hexo本地目录结构
-    hexo generate
 
-    // 将hexo本地目录上传至GitCafe
-    hexo deploy
-    ```
+  ```
+  // 生成hexo本地目录结构
+  hexo generate
+
+  // 将hexo本地目录上传至GitCafe
+  hexo deploy
+  ```
 
 > 试水详情请参照：[龙云全栈](http://www.longestory.com/2017/12/29/create-hexo-deploy-to-github.html)
